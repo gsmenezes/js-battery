@@ -1,6 +1,7 @@
 
 <h1 align="center">Projeto 1 : Bateria</h1>
 
+![Print da tela](screenshot.png)
 
 <p align="center">
   <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0; 
